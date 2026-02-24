@@ -4,7 +4,7 @@ A library of example templates and policies for use in Octopus Deploy's Platform
 
 ## Usage
 
-This repository is _*NOT*_ meant to be used as your Platform Hub git repo.  
+This repository is _*NOT*_ meant to be used as your Platform Hub git repo.  It is meant to provide examples you can apply, with some tweaking, to your instance.  
 
 - The structure of this repository is intentionally different than what Platform Hub expects.  The Platform Hub git repo is designed for usability.  This repository is designed for discoverability.
 - Process Templates and Project Templates are much more complex than step templates, trying to create a generic template that'll work for every instance and every use case is not feasible.
