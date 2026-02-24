@@ -1,6 +1,6 @@
 # Contribution
 
-Please contribute to this library!  We want it to be useful for every user of Octopus Deploy's Platform Hub!
+Have a great example of a process template, project template or policy you want to share?  Here is how to share it with the world!
 
 The contribution guidelines are below.
 
